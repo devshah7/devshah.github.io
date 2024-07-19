@@ -1179,6 +1179,7 @@ section {
   text-align: center;
   font-size: 13px;
   color: #eaebf0;
+  display: none;
 }
 
 @media (max-width: 1199px) {
